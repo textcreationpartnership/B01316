@@ -1,0 +1,808 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account (as near as may be) of the several sums of money lately paid, or payable for the tythes of divers parishes within the city of London, and liberties thereof, where the churches were demolished by the late fire. As also the several sums of money which on the first of December, 1670, were in the Guild-Hall of the said city, consented to, and agreed on by some aldermen and ministers of the said city, as by them thought reasonable to be propounded to the present Parliament, to be established by the authority of the same. Together with reasons why addition should be made to the rates of tythes as they were formerly.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01316</idno>
+            <idno type="STC">Wing A168A</idno>
+            <idno type="STC">ESTC R173134</idno>
+            <idno type="EEBO-CITATION">53981436</idno>
+            <idno type="OCLC">ocm 53981436</idno>
+            <idno type="VID">180082</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01316)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180082)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2813:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account (as near as may be) of the several sums of money lately paid, or payable for the tythes of divers parishes within the city of London, and liberties thereof, where the churches were demolished by the late fire. As also the several sums of money which on the first of December, 1670, were in the Guild-Hall of the said city, consented to, and agreed on by some aldermen and ministers of the said city, as by them thought reasonable to be propounded to the present Parliament, to be established by the authority of the same. Together with reasons why addition should be made to the rates of tythes as they were formerly.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England) --  Fire, 1666 --  Early works to 1800.</term>
+               <term>City of London (England) --  Finance --  17th century --  Sources.</term>
+               <term>Tithes --  England --  London --  17th century --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180082:1" rendition="simple:additions"/>
+            <head>An Account (as near as may be) or the ſeveral Sums of Money lately paid, or payable for the Tythes of divers Pariſhes within the City of <hi>London,</hi> and Liberties thereof, where the Churches were Demoliſhed by the late Fire.</head>
+            <head type="sub">AS ALSO The ſeveral Sums of Money which on the Firſt of <hi>December,</hi> 1670. were in the <hi>Guild-Hall</hi> of the ſaid City, conſented to, and agreed on by ſome Aldermen and Miniſters of the ſaid City, as by them thought reaſonable to be propounded to the preſent Parliament, to be eſtabliſhed by the Authority of the ſame.</head>
+            <head type="sub">Together with Reaſons why Addition ſhould be made to the Rates of Tythes as they were formerly.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3">Former Rates.</cell>
+                     <cell role="label">Sums propounded.</cell>
+                  </row>
+                  <row>
+                     <cell>ALhallows Lumbardſtreet</cell>
+                     <cell>90</cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                     <cell>140</cell>
+                  </row>
+                  <row>
+                     <cell>St. Bartholomew Exchange</cell>
+                     <cell>88</cell>
+                     <cell>16</cell>
+                     <cell>4</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>St. Bridget, <hi>alias</hi> Brides, impro.</cell>
+                     <cell cols="3">about 80 l.</cell>
+                     <cell>160</cell>
+                  </row>
+                  <row>
+                     <cell>St. Bennet Fink, improp.</cell>
+                     <cell>55</cell>
+                     <cell>05</cell>
+                     <cell>06</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>St. Michael Crooked-lane</cell>
+                     <cell>80</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>140</cell>
+                  </row>
+                  <row>
+                     <cell>St. Chriſtophers</cell>
+                     <cell>69</cell>
+                     <cell>01</cell>
+                     <cell>04</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>St. Dionis Back-church</cell>
+                     <cell>98</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>St. Dunſtans in the Eaſt</cell>
+                     <cell>136</cell>
+                     <cell>06</cell>
+                     <cell>04</cell>
+                     <cell>250</cell>
+                  </row>
+                  <row>
+                     <cell>St. James Garlick-hithe</cell>
+                     <cell>92</cell>
+                     <cell>10</cell>
+                     <cell>08</cell>
+                     <cell>140</cell>
+                  </row>
+                  <row>
+                     <cell>St. Michael Cornhill</cell>
+                     <cell>117</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>St. Michael Baſſiſhaw</cell>
+                     <cell>132</cell>
+                     <cell>11</cell>
+                     <cell>06</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>St. Margaret Lothbury</cell>
+                     <cell>72</cell>
+                     <cell>02</cell>
+                     <cell>08</cell>
+                     <cell>120</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Aldermanbury</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>150</cell>
+                  </row>
+                  <row>
+                     <cell>St. Martin Ludgate</cell>
+                     <cell>126</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>St. Peters Cornhill</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>160</cell>
+                  </row>
+                  <row>
+                     <cell>St. Stephen Coleman street, improp.</cell>
+                     <cell cols="3">about 70 l.</cell>
+                     <cell>200</cell>
+                  </row>
+                  <row>
+                     <cell>St. Sepulchres—improp.</cell>
+                     <cell cols="3">uncertain.</cell>
+                     <cell>250</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>Alhallows Breadſtreet</cell>
+                     <cell>84</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell rows="2">128</cell>
+                     <cell rows="2">10</cell>
+                     <cell rows="2">00</cell>
+                     <cell rows="2">180</cell>
+                  </row>
+                  <row>
+                     <cell>St. John Evangeliſt</cell>
+                     <cell>44</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows great</cell>
+                     <cell>132</cell>
+                     <cell>17</cell>
+                     <cell>00</cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2">200</cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows leſs improp.</cell>
+                     <cell>64</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. Alban Woodſtreet</cell>
+                     <cell>106</cell>
+                     <cell>11</cell>
+                     <cell>04</cell>
+                     <cell rows="2">165</cell>
+                     <cell rows="2">03</cell>
+                     <cell rows="2">10</cell>
+                     <cell rows="2">200</cell>
+                  </row>
+                  <row>
+                     <cell>St. Olaves Silverſtreet</cell>
+                     <cell>58</cell>
+                     <cell>12</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. Anne and Agnes</cell>
+                     <cell>76</cell>
+                     <cell>17</cell>
+                     <cell>08</cell>
+                     <cell rows="2">141</cell>
+                     <cell rows="2">00</cell>
+                     <cell rows="2">00</cell>
+                     <cell rows="2">180</cell>
+                  </row>
+                  <row>
+                     <cell>St. John Zachary</cell>
+                     <cell>64</cell>
+                     <cell>02</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. Auguſtine</cell>
+                     <cell>98</cell>
+                     <cell>14</cell>
+                     <cell>07</cell>
+                     <cell rows="2">172</cell>
+                     <cell rows="2">12</cell>
+                     <cell rows="2">08</cell>
+                     <cell rows="2">250</cell>
+                  </row>
+                  <row>
+                     <cell>St. Faith</cell>
+                     <cell>73</cell>
+                     <cell>18</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>St. Andrew Wardrobe</cell>
+                     <cell>80</cell>
+                     <cell>01</cell>
+                     <cell>08</cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2">250</cell>
+                  </row>
+                  <row>
+                     <cell>St. Anne Blackfryers</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. Antholins</cell>
+                     <cell>38</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell rows="2">110</cell>
+                     <cell rows="2">09</cell>
+                     <cell rows="2">06</cell>
+                     <cell rows="2">150</cell>
+                  </row>
+                  <row>
+                     <cell>St. John Baptiſt</cell>
+                     <cell>72</cell>
+                     <cell>09</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. Bennet Grace-church</cell>
+                     <cell>57</cell>
+                     <cell>16</cell>
+                     <cell>06</cell>
+                     <cell rows="2">121</cell>
+                     <cell rows="2">17</cell>
+                     <cell rows="2">02</cell>
+                     <cell rows="2">180</cell>
+                  </row>
+                  <row>
+                     <cell>St. Leonard Eaſtcheap</cell>
+                     <cell>63</cell>
+                     <cell>18</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. Bennet Pauls Wharf</cell>
+                     <cell cols="3">uncertain</cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2">120</cell>
+                  </row>
+                  <row>
+                     <cell>St. Peters Pauls Wharf</cell>
+                     <cell>47</cell>
+                     <cell>10</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>Chriſt-Church improp.</cell>
+                     <cell> ſtip. 40</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell rows="2">159</cell>
+                     <cell rows="2">11</cell>
+                     <cell rows="2">08</cell>
+                     <cell rows="2">250</cell>
+                  </row>
+                  <row>
+                     <cell>St. Leonard Foſterlane</cell>
+                     <cell>119</cell>
+                     <cell>11</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. Edmund the King</cell>
+                     <cell>86</cell>
+                     <cell>19</cell>
+                     <cell>04</cell>
+                     <cell rows="2">155</cell>
+                     <cell rows="2">17</cell>
+                     <cell rows="2">04</cell>
+                     <cell rows="2">220</cell>
+                  </row>
+                  <row>
+                     <cell>St. Nicholas Acons</cell>
+                     <cell>68</cell>
+                     <cell>18</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. George Botolph-lane</cell>
+                     <cell>58</cell>
+                     <cell>13</cell>
+                     <cell>04</cell>
+                     <cell rows="2">180</cell>
+                     <cell rows="2">13</cell>
+                     <cell rows="2">04</cell>
+                     <cell rows="2">240</cell>
+                  </row>
+                  <row>
+                     <cell>St. Botolph Billingſgate</cell>
+                     <cell>122</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St Laurence Jewry imp.</cell>
+                     <cell>80</cell>
+                     <cell>15</cell>
+                     <cell>05</cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2">220</cell>
+                  </row>
+                  <row>
+                     <cell>St. Magdalen Milkſtreet</cell>
+                     <cell>74</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>St. Magnus</cell>
+                     <cell>81</cell>
+                     <cell>12</cell>
+                     <cell>08</cell>
+                     <cell rows="2">151</cell>
+                     <cell rows="2">12</cell>
+                     <cell rows="2">08</cell>
+                     <cell rows="2">220</cell>
+                  </row>
+                  <row>
+                     <cell>St. Marg. New-fiſh-ſtreet</cell>
+                     <cell>70</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. Michael Royal imp.</cell>
+                     <cell>33</cell>
+                     <cell>02</cell>
+                     <cell>10</cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2">200</cell>
+                  </row>
+                  <row>
+                     <cell>St. Martin Vintry</cell>
+                     <cell>115</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. Matthew Friday-ſtreet</cell>
+                     <cell>49</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell rows="2">137</cell>
+                     <cell rows="2">04</cell>
+                     <cell rows="2">02</cell>
+                     <cell rows="2">200</cell>
+                  </row>
+                  <row>
+                     <cell>St. Peter-cheap.</cell>
+                     <cell>88</cell>
+                     <cell>04</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>St. Margaret Pattons</cell>
+                     <cell>44</cell>
+                     <cell>17</cell>
+                     <cell>08</cell>
+                     <cell rows="2">112</cell>
+                     <cell rows="2">15</cell>
+                     <cell rows="2">00</cell>
+                     <cell rows="2">170</cell>
+                  </row>
+                  <row>
+                     <cell>St. Gabriel Fenchurch</cell>
+                     <cell>67</cell>
+                     <cell>17</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary at Hill</cell>
+                     <cell>122</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell rows="2">190</cell>
+                     <cell rows="2">16</cell>
+                     <cell rows="2">00</cell>
+                     <cell rows="2">250</cell>
+                  </row>
+                  <row>
+                     <cell>St. Andrew Hubbard</cell>
+                     <cell>68</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Woolnoth</cell>
+                     <cell>84</cell>
+                     <cell>04</cell>
+                     <cell>00</cell>
+                     <cell rows="2">134</cell>
+                     <cell rows="2">12</cell>
+                     <cell rows="2">06</cell>
+                     <cell rows="2">220</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Wool-church</cell>
+                     <cell>50</cell>
+                     <cell>08</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>St. Clement Eaſt-cheap</cell>
+                     <cell>40</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell rows="2">120</cell>
+                     <cell rows="2">07</cell>
+                     <cell rows="2">01</cell>
+                     <cell rows="2">180</cell>
+                  </row>
+                  <row>
+                     <cell>St. Martin Orgars</cell>
+                     <cell>80</cell>
+                     <cell>07</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Abchurch</cell>
+                     <cell>86</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2">170</cell>
+                  </row>
+                  <row>
+                     <cell>St. Laurence Pount. imp.</cell>
+                     <cell>38</cell>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Aldermary</cell>
+                     <cell>64</cell>
+                     <cell>17</cell>
+                     <cell>08</cell>
+                     <cell rows="2">150</cell>
+                     <cell rows="2">06</cell>
+                     <cell rows="2">08</cell>
+                     <cell rows="2">220</cell>
+                  </row>
+                  <row>
+                     <cell>St. Thomas Apoſtles</cell>
+                     <cell>85</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Le-Bow</cell>
+                     <cell>94</cell>
+                     <cell>04</cell>
+                     <cell>09</cell>
+                     <cell rows="3">173</cell>
+                     <cell rows="3">03</cell>
+                     <cell rows="3">01</cell>
+                     <cell rows="3">260</cell>
+                  </row>
+                  <row>
+                     <cell>St. Pancras Soper-lane</cell>
+                     <cell>36</cell>
+                     <cell>17</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>Alhallows Honey-lane</cell>
+                     <cell>42</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mildred Poultry</cell>
+                     <cell>94</cell>
+                     <cell>00</cell>
+                     <cell>04</cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2">200</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Cole-Church imp.</cell>
+                     <cell>51</cell>
+                     <cell>16</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. Michael Wood-ſtreet, about 75 l.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell rows="2">96</cell>
+                     <cell rows="2">12</cell>
+                     <cell rows="2">04</cell>
+                     <cell rows="2">130</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Staining</cell>
+                     <cell>21</cell>
+                     <cell>12</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mildred Breadſtreet</cell>
+                     <cell>51</cell>
+                     <cell>17</cell>
+                     <cell>04</cell>
+                     <cell rows="2">114</cell>
+                     <cell rows="2">04</cell>
+                     <cell rows="2">00</cell>
+                     <cell rows="2">180</cell>
+                  </row>
+                  <row>
+                     <cell>St. Margaret Moſes</cell>
+                     <cell>62</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. Michael Queen-hith</cell>
+                     <cell>91</cell>
+                     <cell>03</cell>
+                     <cell>04</cell>
+                     <cell rows="2">153</cell>
+                     <cell rows="2">17</cell>
+                     <cell rows="2">08</cell>
+                     <cell rows="2">200</cell>
+                  </row>
+                  <row>
+                     <cell>Trinity</cell>
+                     <cell>62</cell>
+                     <cell>14</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. Ma. Mag. Old fiſhſtr.</cell>
+                     <cell>101</cell>
+                     <cell>18</cell>
+                     <cell>08</cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2"> </cell>
+                     <cell rows="2">200</cell>
+                  </row>
+                  <row>
+                     <cell>St. Greg. improp.</cell>
+                     <cell>80</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Somerſet</cell>
+                     <cell>80</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell rows="2">106</cell>
+                     <cell rows="2">10</cell>
+                     <cell rows="2">08</cell>
+                     <cell rows="2">150</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Mounthaw</cell>
+                     <cell>26</cell>
+                     <cell>10</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. Nicholas Coleabby</cell>
+                     <cell>72</cell>
+                     <cell>12</cell>
+                     <cell>02</cell>
+                     <cell rows="2">118</cell>
+                     <cell rows="2">01</cell>
+                     <cell rows="2">10</cell>
+                     <cell rows="2">160</cell>
+                  </row>
+                  <row>
+                     <cell>St. Nicholas Olaves</cell>
+                     <cell>45</cell>
+                     <cell>09</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. Olaves Jewry</cell>
+                     <cell>53</cell>
+                     <cell>11</cell>
+                     <cell>10</cell>
+                     <cell rows="2">93</cell>
+                     <cell rows="2">14</cell>
+                     <cell rows="2">10</cell>
+                     <cell rows="2">160</cell>
+                  </row>
+                  <row>
+                     <cell>St. Martin Iremonger-lane</cell>
+                     <cell>40</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. Stephen Walbrook</cell>
+                     <cell>39</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell rows="2">70</cell>
+                     <cell rows="2">15</cell>
+                     <cell rows="2">08</cell>
+                     <cell rows="2">120</cell>
+                  </row>
+                  <row>
+                     <cell>St. Bennet Sherehog</cell>
+                     <cell>31</cell>
+                     <cell>05</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>St. Swithin</cell>
+                     <cell> about 80</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell rows="2">121</cell>
+                     <cell rows="2">10</cell>
+                     <cell rows="2">04</cell>
+                     <cell rows="2">180</cell>
+                  </row>
+                  <row>
+                     <cell>St. Mary Bothaw</cell>
+                     <cell>41</cell>
+                     <cell>10</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>St. Vedaſt, <hi>alias</hi> Foſter</cell>
+                     <cell>96</cell>
+                     <cell>07</cell>
+                     <cell>03</cell>
+                     <cell rows="2">150</cell>
+                     <cell rows="2">25</cell>
+                     <cell rows="2">06</cell>
+                     <cell rows="2">220</cell>
+                  </row>
+                  <row>
+                     <cell>St. Michael Quern</cell>
+                     <cell>54</cell>
+                     <cell>08</cell>
+                     <cell>03</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <list>
+                  <head>Reaſons why Addition ſhould be made to the Tythes formerly Paid.</head>
+                  <item>1. THat the Rates for Tythes heretofore were much greater, and ſunk thus low as they have been of late years, as by other ways, ſo eſpecially by Letting Houſes at under Rents, with quarterly Fines.</item>
+                  <item>2. That the Tythes thus leſſened, are a ſlender and incompetent Maintenance to invite and incourage perſons of ſuch worth, as it is fit the City of <hi>London,</hi> ſhould from time to time be ſupplyed withall.</item>
+                  <item>3. That theſe Rates of Tythes thus Diminiſhed, would have been as plentiful a Maintenance an hundred years ago, as the ſame now doubled.</item>
+                  <item>4. That the ſhortneſs of the Setled Maintenance, making voluntary Contributions neceſſary for a Livelyhood, hath been and may be a temptation to Popular Compliances.</item>
+                  <item>5. That the Glebes which were formerly a conſiderable advance, are ſince the Fire generally leſſened in their Rents two thirds, and the Parſonage and Vicarage Houſes being Demoliſh'd, they muſt either be rebuilt with great Charge, or others taken at great Rents.</item>
+                  <item>6. That the Charges of a Family are much greater in the City than elſewhere.</item>
+                  <item>7. That the ſhort and diſcouraging Maintenance of the Orthodox and Conformable Clergy, tends to the incouragement and upholding of Conventicles.</item>
+                  <item>8. That it is upon good grounds believed, That the Rates propounded, together with the Reſerved Dues of Impropriators, will not in the whole, one place with another, exceed Six pence in the Pound of yearly Rent moderately eſtimated.</item>
+               </list>
+            </p>
+            <pb facs="tcp:180082:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
